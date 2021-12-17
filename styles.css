@@ -1,0 +1,7 @@
+body{background-color: #9EF9FF;}
+h1{color: black; text-shadow: 2px 2px 4px #000000;font-family: Helvetica; font-size: 30px; }
+p{color: #1B2C2D ; font-size: 20px;}
+img{margin-left: 200px; border-color: black; border-width: 5px; border-style: double;}
+ul{color: #1B2C2D;}
+a{color:#1B2C2D; text-decoration: none;}
+a:hover{color: blue; text-decoration: underline;}
